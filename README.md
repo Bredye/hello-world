@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Sup MahFk'r
+
+just learning thish bish
